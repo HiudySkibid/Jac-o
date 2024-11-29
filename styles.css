@@ -1,0 +1,29 @@
+/* Resetando margens e padding para todos os elementos */
+*{
+    margin: 0; /* Remove a margem */
+    padding: 0; /* Remove o preenchimento */
+    box-sizing: border-box; /* Faz com que o padding e a borda sejam incluídos no tamanho do elemento */
+    }
+    /* Estilo para o corpo da página */
+    body {
+    font-family: Arial, sans-serif; /* Define a fonte padrão da página */ background-color: #f4f4f9; /* Cor de fundo suave para o coгрo */
+    color: #333; /* Cor do texto, um tom de cinza escuro */
+    line-height: 1.6; /* Altura da linha para facilitar a leitura "/
+    padding: 20px; /* Espaçamento interno em torno do conteúdo */
+    }
+    /* Estilo para o cabeçalho */
+    header {
+    background-color: #0073e6; /* Cor de fundo azul */
+    color: white; /* Cor do texto branca "/
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto no cabeçalho "/
+    }
+    /* Estilo para os títulos dentro do cabeçalho */
+    header h1 {
+    font-size: 2.5em; /* Tamanho da fonte do título */
+    margin-bottom: 10px; /* Espaço abaixo do título */
+    }
+    /* Estilo para o parágrafo dentro do cabeçalho */
+    header p {
+    font-size: 1.2em; /* Tamanho da fonte do parágrafo */
+    }
